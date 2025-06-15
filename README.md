@@ -8,6 +8,9 @@ A lightweight serverless API that performs **sentiment analysis** on user-provid
 
 ## 🏗️ Architecture Overview
 
+#### Architecture Diagram
+
+![Architecture](https://github.com/22MH1A42G1/AWS-Serverless-Sentiment-Analysis/blob/main/imgs/Architecture.jpg?raw=true)
 
 ## 📦 Features
 
