@@ -1,8 +1,8 @@
-# 🚀 AWS Serverless Sentiment Analysis
+# 🚀 AWS Project: [AWS Serverless Sentiment Analysis](https://github.com/22MH1A42G1/AWS-Serverless-Sentiment-Analysis)
 
-## 📝 Project Description
+## 📌 Project Description
 
-A lightweight serverless API that performs **sentiment analysis** on user-provided text using **AWS Comprehend**. The API is exposed via **API Gateway**, powered by **AWS Lambda**, and can be accessed via a simple frontend.
+A lightweight serverless API that performs sentiment analysis on user-provided text using **AWS Comprehend**. The API is exposed via **API Gateway**, powered by **AWS Lambda**, and can be accessed via a simple frontend. A **serverless sentiment analysis** web app using ```AWS Lambda, API Gateway, S3, and Comprehend```. Users can submit text through a frontend page, and the backend returns the sentiment analysis result.
 
 ---
 
@@ -24,10 +24,12 @@ A lightweight serverless API that performs **sentiment analysis** on user-provid
 
 ## ⚙️ Technologies Used
 
-* AWS Lambda (Python)
+* AWS Lambda (Python Script ```boto3```)
 * AWS Comprehend (Detect Sentiment)
 * AWS API Gateway (REST API)
-* HTML, CSS, JS (Frontend)
+* AWS S3 ```HTML, JS (Frontend)```
+* PostMan API ```(Testing)```
+* AWS IAM
 
 ---
 
@@ -52,16 +54,7 @@ Lambda Function (`lambda_function.py`):
 ### 3. Frontend Example (HTML)
 
 
----
 
-## 📂 Folder Structure
-
-```
-.
-├── lambda_function.py
-├── index.html
-└── README.md
-```
 
 ---
 
