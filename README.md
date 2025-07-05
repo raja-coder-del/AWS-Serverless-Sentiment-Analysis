@@ -176,7 +176,7 @@ Attach the following IAM policies to the Lambda execution role:
 
 ## 🧑‍💻 Author
 
-**Indana Aditya**
-[LinkedIn](https://www.linkedin.com/in/aditya-indana-899734216) • [GitHub](https://github.com/22MH1A42G1)
+**RAJA TEKI**
+
 
 ---
